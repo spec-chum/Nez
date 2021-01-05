@@ -13,6 +13,7 @@
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<AllowUnsafeBlocks>True</AllowUnsafeBlocks>
 		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+        <TargetFrameworkAttribute>false</TargetFrameworkAttribute>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
 		<OutputPath>bin\$(Configuration)\FNA</OutputPath>
 	</PropertyGroup>
