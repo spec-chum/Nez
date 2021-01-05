@@ -9,7 +9,7 @@
     <AssemblyName>Nez</AssemblyName>
     <RootNamespace>Nez</RootNamespace>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-    <TargetFrameworkAttribute>false</TargetFrameworkAttribute>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
   </PropertyGroup>
 
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
